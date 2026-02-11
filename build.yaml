@@ -4,5 +4,5 @@ include:
     shield: lpm_view
     snippet: studio-rpc-usb-uart
   - board: polaris_right
-    shield: nice_view_reverse
+    shield: 
 
